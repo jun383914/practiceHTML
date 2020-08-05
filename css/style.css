@@ -1,0 +1,12 @@
+.outer{
+    background-color: rgb(43, 198, 226);
+
+}
+
+.inner{
+    background-color: coral;
+    padding:15px;
+    border: 5px solid rgb(30, 255, 0);
+    margin: 10px;
+    text-align:center
+}
